@@ -11,7 +11,6 @@ int counter = 2;
 long int a = 1;
 long int b = a + 1;
 long int c = a + b;
- 
 printf("%ld, %ld, ", a, b);
 while (counter < 50)
 {
