@@ -4,7 +4,7 @@
 
 /**
 *prints all natural numbers from n to 98
-*
+*code by stanleyrays
 */
 void print_to_98(int n)
 {
