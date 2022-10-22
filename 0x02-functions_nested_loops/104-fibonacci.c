@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - main function
- *
- * Return: nothing
- */
+*main - main function
+*Return always 0
+*Return: nothing
+*/
 int main(void)
 {
 int counter = 2;
