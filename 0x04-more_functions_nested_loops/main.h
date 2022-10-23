@@ -24,6 +24,7 @@ int mul(int a, int b);
 */
 
 void print_numbers(void);
+int _putchar(int i);
 /**
 *print_most_numbers - prints the numbers
 *
