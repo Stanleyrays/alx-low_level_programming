@@ -40,3 +40,5 @@ abs = abs % mult;
 mult /= 10;
 }
 }
+return (0);
+}
